@@ -3,7 +3,7 @@ layout: default
 modal-id: "portfolioModal-3"
 title: "Athletics"
 date: 2024-10-06
-img: actiona.png
+img: actionaretry.png
 alt: "gator Image"
 
 ---

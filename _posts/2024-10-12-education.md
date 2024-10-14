@@ -3,7 +3,7 @@ layout: default
 modal-id: "portfolioModal-1"
 title: "Education and Revelant Coursework"
 date: 2024-10-06
-img: bicent.png
+img: blacklogoretry.png
 alt: "Gator Image"
 
 ---
